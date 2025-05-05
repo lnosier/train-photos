@@ -3,7 +3,7 @@ date,Date,true
 creator,Creator,true
 subject,Subjects,true
 location,Location,true
-builder,Builder
+builder,Builder,true
 builddate,Build Date
 wheelarrangement,Wheel Arrangement
 event,Event
