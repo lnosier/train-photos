@@ -11,3 +11,5 @@ credits: true
 ## About the Collection
 
 This site is a sample of some of the train related photos taken by Lauren Osier. Lauren is active in the Heritage Rail Community. 
+When she is not volunteering at Midwest Central Railroad, you can find her visiting various railroads and museums across the 
+United States.
