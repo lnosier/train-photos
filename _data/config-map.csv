@@ -3,3 +3,10 @@ date,Date,true
 creator,Creator,true
 subject,Subjects,true
 location,Location,true
+builder,Builder
+builddate,Build Date
+wheelarrangement,Wheel Arrangement
+event,Event
+filesize,File Size
+rights,Rights
+usage,Usage
