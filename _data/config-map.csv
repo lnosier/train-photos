@@ -4,9 +4,9 @@ creator,Creator,true
 subject,Subjects,true
 location,Location,true
 builder,Builder,true
-builddate,Build Date
-wheelarrangement,Wheel Arrangement
-event,Event
-filesize,File Size
-rights,Rights
-usage,Usage
+builddate,Build Date,true
+wheelarrangement,Wheel Arrangement,true
+event,Event,true
+filesize,File Size,true
+rights,Rights,true
+usage,Usage,true
