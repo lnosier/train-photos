@@ -3,7 +3,7 @@ title,Title
 creator,Creator
 date,Date Created
 description,Description
-subject,Subjects,true
+subject,Subjects
 location,Location
 latitude,Latitude
 longitude,Longitude
@@ -12,7 +12,7 @@ identifier,Source Identifier
 type,Type
 format,Format
 rights,Rights
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement
 builder,Builder
 wheelarrangement,Wheel Arrangement
 event,Event
